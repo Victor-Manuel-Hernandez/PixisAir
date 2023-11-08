@@ -16,5 +16,10 @@ namespace PixisAir
         {
             InitializeComponent();
         }
+
+        private void kyleBtn_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
