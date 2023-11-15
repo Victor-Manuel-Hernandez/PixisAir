@@ -1,0 +1,16 @@
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\bin\Debug\PixisAirProject.exe.config
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\bin\Debug\PixisAirProject.exe
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\bin\Debug\PixisAirProject.pdb
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\bin\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\bin\Debug\IBM.Data.DB2.iSeries.xml
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\obj\Debug\PixisAirProject.csproj.AssemblyReference.cache
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\obj\Debug\PixisAirProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\obj\Debug\PixisAirProject.RonaldForm.resources
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\obj\Debug\PixisAirProject.Properties.Resources.resources
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\obj\Debug\PixisAirProject.csproj.GenerateResource.cache
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\obj\Debug\PixisAirProject.csproj.CoreCompileInputs.cache
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\obj\Debug\PixisAirProject.csproj.CopyComplete
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\obj\Debug\PixisAirProject.exe
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\obj\Debug\PixisAirProject.pdb
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\obj\Debug\PixisAirProject.AddTask.resources
+C:\Users\1384476\Desktop\PixisAirProject\PixisAirProject\obj\Debug\PixisAirProject.AddWorkOrder.resources
