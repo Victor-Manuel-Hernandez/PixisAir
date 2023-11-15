@@ -1,0 +1,15 @@
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\bin\Debug\PixisAirVictor.exe.config
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\bin\Debug\PixisAirVictor.exe
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\bin\Debug\PixisAirVictor.pdb
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\bin\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\bin\Debug\IBM.Data.DB2.iSeries.xml
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\obj\Debug\PixisAirVictor.csproj.AssemblyReference.cache
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\obj\Debug\PixisAirVictor.csproj.SuggestedBindingRedirects.cache
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\obj\Debug\PixisAirVictor.Form1.resources
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\obj\Debug\PixisAirVictor.Properties.Resources.resources
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\obj\Debug\PixisAirVictor.csproj.GenerateResource.cache
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\obj\Debug\PixisAirVictor.csproj.CoreCompileInputs.cache
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\obj\Debug\PixisAirVictor.csproj.CopyComplete
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\obj\Debug\PixisAirVictor.exe
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\obj\Debug\PixisAirVictor.pdb
+C:\Users\1406314\source\repos\PixisAirVictor\PixisAirVictor\obj\Debug\PixisAirVictor.AddCustomer.resources
